@@ -1,1 +1,1 @@
-canal-server
+canal-server:v1.1.5
