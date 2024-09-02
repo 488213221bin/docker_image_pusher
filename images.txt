@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.2.0 
+sentinel-dashboard:1.8.6
